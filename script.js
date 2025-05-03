@@ -113,4 +113,4 @@ function generateReport() {
 }
 
 // Add this button to your HTML:
-<button onclick="generateReport()">Generate Report</button>
+//<button onclick="generateReport()">Generate Report</button>
